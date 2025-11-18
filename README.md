@@ -15,3 +15,4 @@ type the command :  gcc main.c logic.c -o maze
 run the program : ./maze > log.txt
 
 Example Output:
+<img width="1911" height="1018" alt="Screenshot 2025-11-18 144642" src="https://github.com/user-attachments/assets/f3a12911-bfc7-4e0e-9185-a9aa35882cbd" />
